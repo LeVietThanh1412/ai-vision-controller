@@ -1,0 +1,11 @@
+# Bỏ qua thư mục môi trường ảo
+venv/
+trainAIWindow/
+trainAIUbuntu/
+
+# Bỏ qua file biên dịch Python
+__pycache__/
+*.pyc
+
+# Bỏ qua file model lớn
+*.pt
