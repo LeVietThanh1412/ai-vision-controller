@@ -1,5 +1,13 @@
 # AI Vision Controller
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-red?logo=opencv)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10-orange?logo=google)
+![Ultralytics YOLOv8](https://img.shields.io/badge/YOLOv8-ultralytics-purple?logo=yolo)
+![Pygame](https://img.shields.io/badge/Pygame-2.6-green?logo=pygame)
+![Numpy](https://img.shields.io/badge/Numpy-1.26-blue?logo=numpy)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 ## Giới thiệu
 AI Vision Controller là ứng dụng nhận diện bàn tay và khuôn mặt bằng AI, kết hợp với Pygame để điều khiển các đối tượng trên màn hình theo chuyển động thực tế.
 
